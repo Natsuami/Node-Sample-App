@@ -1,0 +1,22 @@
+{
+  "name": "node-sample-app",
+  "version": "1.0.0",
+  "description": "Summer's sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "eslint": "npx eslint plant.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "suma-app"
+  ],
+  "author": "Summer Marker Li",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
